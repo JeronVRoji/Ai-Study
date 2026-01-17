@@ -1,0 +1,24 @@
+body {
+  background: #111;
+  color: #eee;
+  font-family: sans-serif;
+}
+
+.chat {
+  width: 400px;
+  margin: 40px auto;
+}
+
+#messages {
+  min-height: 300px;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 70%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px;
+}
